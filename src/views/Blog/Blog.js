@@ -37,10 +37,8 @@ const Blog: React.FC = () => (
                 </Col>
             
             </Row>
-        </Container>
-        
-    </div>
-    
+        </Container>   
+    </div
 );
 
 export default Blog;

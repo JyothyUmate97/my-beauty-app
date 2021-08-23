@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import { NavLink } from "..";
+import { NavLink } from "../app/routes";
 import { TypedSecondaryMenuQuery } from "./queries";
 import logoImg1 from "../../images/Beauty_Logo_Small.svg";
 import ReactSVG from "react-svg";

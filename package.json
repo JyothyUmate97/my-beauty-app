@@ -1,5 +1,5 @@
 {
-  "name": "my-beauty-assnginment-app",
+  "name": "my-beauty-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,13 +9,18 @@
     "@types/react": "^17.0.19",
     "animate.css-react": "^1.1.0",
     "classnames": "^2.3.1",
+    "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
     "react-fc": "^0.41.0",
     "react-media": "^1.10.0",
+    "react-pages": "^0.4.4",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-svg": "^14.0.9",
+    "reset-css": "^5.0.1",
+    "typescript": "^4.3.5",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

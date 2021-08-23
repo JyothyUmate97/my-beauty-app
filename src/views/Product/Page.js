@@ -1,4 +1,4 @@
-import { smallScreen } from "../../globalStyles/scss/variables.scss";
+import { smallScreen } from "../../globalStyles/css/variables.css";
 
 import classNames from "classnames";
 import * as React from "react";

@@ -1,4 +1,4 @@
-import './globalStyles/scss/index.scss';
+import '../globalStyles/scss/index.scss';
 
 import React from 'react';
 
@@ -8,7 +8,7 @@ import {
   MetaConsumer,
   OverlayManager,
 } from '../components';
-import { Routes } from './route';
+import { Routes } from './app/routes';
 
 const App: React.FC = () => {
   return (

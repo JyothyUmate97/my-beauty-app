@@ -1,10 +1,10 @@
 import * as React from "react";
 import { Route, Switch } from "react-router-dom";
 
-import { CheckoutLogin, NotFound } from "../../components";
-import UserAccount, * as accountPaths from "../../userAccount/routes";
-import { OrderDetails } from "../../userAccount/views";
-import { Account, AccountConfirm } from "../../views/Account";
+// import { CheckoutLogin, NotFound } from "../../components";
+// import UserAccount, * as accountPaths from "../../userAccount/routes";
+// import { OrderDetails } from "../../userAccount/views";
+// import { Account, AccountConfirm } from "../../views/Account";
 import { ArticlePage } from "../../views/Article";
 import { CategoryPage } from "../../views/Category";
 import { CollectionPage } from "../../views/Collection";

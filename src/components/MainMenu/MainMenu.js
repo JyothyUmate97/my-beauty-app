@@ -39,7 +39,7 @@ import {
 import {
   mediumScreen,
   smallScreen,
-} from '../../globalStyles/scss/variables.scss';
+} from '../../globalStyles/css/variables.css';
 // import logoImg from "../../images/logo.svg";
 import logoImg from '../../images/Beauty_Logo_Small.svg';
 import cartImg from '../../images/cart.svg';

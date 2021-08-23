@@ -4,7 +4,7 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 import ReactSVG from "react-svg";
 
-import { Button } from "../..";
+import { Button } from "../../app/routes";
 import closeImg from "../../images/modal-close.svg";
 
 interface IModalProps {

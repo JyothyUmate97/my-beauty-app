@@ -1,7 +1,7 @@
 import "./scss/index.scss";
 
 import * as React from "react";
-import { SocialMediaIcon } from "..";
+import { SocialMediaIcon } from "../app/routes";
 import { SOCIAL_MEDIA } from "../../core/config";
 import Nav from "./Nav";
 import { Container, Row, Col } from 'react-bootstrap';

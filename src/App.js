@@ -1,27 +1,13 @@
-import '../globalStyles/scss/index.scss';
+import logo from './logo.svg';
+import './App.css';
+import CarouselComponent  from "./components/carousel.component";
 
-import React from 'react';
-
-import {
-  Footer,
-  MainMenu,
-  MetaConsumer,
-  OverlayManager,
-} from '../components';
-import { Routes } from './app/routes';
-
-const App: React.FC = () => {
+function App() {
   return (
-    <>
-      <MetaConsumer />
-      <header>
-        <MainMenu />
-      </header>
-      <Routes />
-      <Footer />
-      <OverlayManager />
-    </>
+    <div className="App">
+    <CarouselComponent />
+  </div>
   );
-};
+}
 
 export default App;

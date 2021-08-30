@@ -1,26 +1,25 @@
 {
-  "name": "my-beauty-app",
+  "name": "react-responsive-carousel-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "@types/react": "^17.0.19",
-    "animate.css-react": "^1.1.0",
-    "classnames": "^2.3.1",
-    "node-sass": "^6.0.1",
+    "apollo-client": "^2.6.10",
+    "bootstrap": "^5.1.0",
+    "graphql": "^15.5.1",
     "react": "^17.0.2",
+    "react-apollo": "^3.1.5",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
-    "react-fc": "^0.41.0",
-    "react-media": "^1.10.0",
-    "react-pages": "^0.4.4",
-    "react-router-dom": "^5.2.0",
+    "react-responsive-carousel": "^3.2.21",
+    "react-router-dom": "^5.2.1",
     "react-scripts": "4.0.3",
-    "react-svg": "^14.0.9",
-    "reset-css": "^5.0.1",
-    "typescript": "^4.3.5",
+    "react-social-icons": "^5.6.1",
+    "react-svg": "^14.0.10",
+    "reactstrap": "^8.9.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -46,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/js-base64": "^3.3.1"
   }
 }
